@@ -10,7 +10,7 @@ An employee management system web application  that allow users can add, edit, u
 1. Add Employee information
 2. Update Employee information
 3. Delete Employee information
-4. Display Employee
+4. Display Employee information
 
 
 

@@ -1,4 +1,4 @@
-# Employee_management_system
+# Employee_Management_System
 ## Overview
 An employee management system consist important  and personal information about employees.
  

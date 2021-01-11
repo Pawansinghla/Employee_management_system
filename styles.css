@@ -22,7 +22,7 @@
     margin-bottom: 20px;
 }
 
-.main{
+.main {
 margin:auto;
 margin-top: 40px;
 width: 50%;
@@ -30,6 +30,7 @@ height: 700px;
 background: lightblue;
 border-radius: 10px;
 padding: 20px;
+
 
 }
 .main .register{
@@ -145,3 +146,17 @@ padding: 20px;
 }
     
   }
+
+
+
+.button{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+
+/* list styling */
+
+
+
